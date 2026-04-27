@@ -193,7 +193,7 @@ jobs:
           REPO="${{ github.repository }}"
           BRANCH="${GITHUB_REF_NAME}"
           
-          HEADER="## 🔗 Direct Download Links\n> Click on any link below to start downloading directly.<br/>\n\n\n"
+          HEADER="## 🔗 Direct Download Links\n> Click on any link below to start downloading directly.<br><br/>\n\n"
           
           echo "### 📅 $(TZ='Asia/Tehran' date +'%Y-%m-%d %H:%M') IR" > current_run.md
           
@@ -205,7 +205,7 @@ jobs:
             
             # Using env variable and a python one-liner to prevent any YAML/Bash indentation errors
             export FNAME_ENV="$FNAME"
-            SIZE_STR=$(python3 -c "import os; fname = os.environ.get('FNAME_ENV'); path = f'dl/{fname}'; size = os.path.getsize(path) if os.path.exists(path) else 0; print(f'{size/1048576:.1f} MB' if size >= 1048576 else f'{size//1024} KB')")
+            SIZE_STR=$(python3 -c "import os; fname = os.environ.get('FNAME_ENV'); path = f'dl/{fname}'; size = os.path.getsize(path) if os.path.exists(path) else 0; print(f'{size/1048576:.1f}MB' if size >= 1048576 else f'{size//1024}KB')")
             
             EXT="${FNAME##*.}"
             case "$EXT" in
