@@ -2,6 +2,13 @@
 > Click on any link below to start downloading directly.<br/>
 
 
+
+### 📅 2026-04-27 20:00 IR
+- 📱 [SlipNetLiteClone_armv8_v2.5.3.apk](https://github.com/nscl5/dl/raw/main/dl/SlipNetLiteClone_armv8_v2.5.3.apk) `10.7 MB`
+
+---
+
+
 ### 📅 2026-04-27 12:16 IR
 - 🗜️ [AmneziaVPN_4.8.15.0_arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip) `86.6MB`
 
