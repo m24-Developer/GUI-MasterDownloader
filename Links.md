@@ -4,6 +4,12 @@
 
 
 
+### 📅 2026-04-27 12:26 IR
+- 📥 **[app-arm64-v8a-release.apk](https://github.com/nscl5/dl/raw/main/dl/app-arm64-v8a-release.apk)**
+
+
+
+
 ### 📅 2026-04-27 12:16 IR
 - 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
 - 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
