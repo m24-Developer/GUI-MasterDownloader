@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 05:58 IR
+- 📱 [Exclave-0.17.37-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) `22.2MB`
+
+- 📱 [Exclave-0.17.37-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-armeabi-v7a.apk) `22.7MB`
+
+---
+
+
 ### 📅 2026-04-30 23:19 IR
 - 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
 
