@@ -2,16 +2,13 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-01 08:42 IR
-- 🗜️ [ExclaveFullBackup_1May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
-
----
-
-
 ### 📅 2026-05-01 05:58 IR
 - 📱 [Exclave-0.17.37-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) `22.2MB`
 
 - 📱 [Exclave-0.17.37-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-armeabi-v7a.apk) `22.7MB`
+
+- 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
+- 
 
 ---
 
@@ -25,28 +22,9 @@
 
 
 ### 📅 2026-04-30 13:42 IR
-- 🗜️ [tportable.6.7.8.zip](https://github.com/nscl5/dl/raw/main/dl/tportable.6.7.8.zip) `57.0MB`
+- 🗜️ [Telegram windows portable - v6.7.8.zip](https://github.com/nscl5/dl/raw/main/dl/tportable.6.7.8.zip) `57.0MB`
 
-- 📥 [tsetup.6.7.8.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.7.8.exe) `44.3MB`
-
----
-
-
-### 📅 2026-04-29 14:11 IR
-- 🎬 [عربی حرف زدن آقای کاووسی 🤣 این سکانس معرکس 😂✌️.mp4](https://github.com/nscl5/dl/raw/main/dl/%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%AD%D8%B1%D9%81%20%D8%B2%D8%AF%D9%86%20%D8%A2%D9%82%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%88%D9%88%D8%B3%DB%8C%20%F0%9F%A4%A3%20%D8%A7%DB%8C%D9%86%20%D8%B3%DA%A9%D8%A7%D9%86%D8%B3%20%D9%85%D8%B9%D8%B1%DA%A9%D8%B3%20%F0%9F%98%82%E2%9C%8C%EF%B8%8F.mp4) `17.2MB`
-
----
-
-
-### 📅 2026-04-28 18:26 IR
-- 🎬 [IELTS Listening Tips： Multiple Choice.mp4](https://github.com/nscl5/dl/raw/main/dl/IELTS%20Listening%20Tips%EF%BC%9A%20Multiple%20Choice.mp4) `47.0MB`
-
----
-
-
-
-### 📅 2026-04-27 20:00 IR
-- 📱 [SlipNetLiteClone_armv8_v2.5.3.apk](https://github.com/nscl5/dl/raw/main/dl/SlipNetLiteClone_armv8_v2.5.3.apk) `10.7MB`
+- 📥 [Telegram windows setup file - v6.7.8.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.7.8.exe) `44.3MB`
 
 ---
 
@@ -86,12 +64,7 @@
 
 - 📱 [SlipNet-v2.5.3-lite-universal.apk](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-lite-release-universal.apk) `22.5MB`
 
----
-
-### 📅 2026-04-27 10:15 IR
-- 📱 [Exclave-0.17.35-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.35-arm64-v8a.apk) `22.1MB`
-
-- 📱 [Exclave-0.17.35-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.35-armeabi-v7a.apk) `22.6MB`
+- 📱 [SlipNetLiteClone_armv8_v2.5.3.apk](https://github.com/nscl5/dl/raw/main/dl/SlipNetLiteClone_armv8_v2.5.3.apk) `10.7MB`
 
 ---
 
