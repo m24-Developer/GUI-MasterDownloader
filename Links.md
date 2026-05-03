@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 12:34 IR
+- 📱 [Exclave-0.17.38-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) `22.2MB`
+
+- 📱 [Exclave-0.17.38-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-armeabi-v7a.apk) `22.7MB`
+
+---
+
+
 ### 📅 2026-05-01 05:58 IR
 - 📱 [Exclave-0.17.37-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) `22.2MB`
 
