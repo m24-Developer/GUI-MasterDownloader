@@ -1,4 +1,9 @@
 ## 🔗 Direct Download Links
+
+### 📅 2026-05-03 12:23 (IR Time)
+- 📥 **[tg_ab4548_ffe2d206.apk](https://github.com/nscl5/dl/raw/main/dl/tg_ab4548_ffe2d206.apk)**
+
+## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
 
 
