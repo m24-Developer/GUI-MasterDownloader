@@ -1,19 +1,5 @@
 ## 🔗 Direct Download Links
-
-### 📅 2026-05-03 12:25 (IR Time)
-- 📥 **[tg_9876d8_bd039dc1.apk](https://github.com/nscl5/dl/raw/main/dl/tg_9876d8_bd039dc1.apk)**
-
-### 📅 2026-05-03 12:23 (IR Time)
-- 📥 **[tg_ab4548_ffe2d206.apk](https://github.com/nscl5/dl/raw/main/dl/tg_ab4548_ffe2d206.apk)**
-
-## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
-
-
-### 📅 2026-05-01 13:41 IR
-- 🎬 [pl7RD5nVpy9eFEX8svTT+w_yG-63bTqc.mp4](https://github.com/nscl5/dl/raw/main/dl/pl7RD5nVpy9eFEX8svTT%2Bw_yG-63bTqc.mp4) `71.2MB`
-
----
 
 
 ### 📅 2026-05-01 05:58 IR
@@ -22,10 +8,8 @@
 - 📱 [Exclave-0.17.37-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-armeabi-v7a.apk) `22.7MB`
 
 - 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
-- 
 
 ---
-
 
 ### 📅 2026-04-30 23:19 IR
 - 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
@@ -34,14 +18,12 @@
 
 ---
 
-
 ### 📅 2026-04-30 13:42 IR
 - 🗜️ [Telegram windows portable - v6.7.8.zip](https://github.com/nscl5/dl/raw/main/dl/tportable.6.7.8.zip) `57.0MB`
 
 - 📥 [Telegram windows setup file - v6.7.8.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.7.8.exe) `44.3MB`
 
 ---
-
 
 ### 📅 2026-04-27 12:16 IR
 - 🗜️ [AmneziaVPN_4.8.15.0_arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip) `86.6MB`
