@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-03 12:25 (IR Time)
+- 📥 **[tg_9876d8_bd039dc1.apk](https://github.com/nscl5/dl/raw/main/dl/tg_9876d8_bd039dc1.apk)**
+
 ### 📅 2026-05-03 12:23 (IR Time)
 - 📥 **[tg_ab4548_ffe2d206.apk](https://github.com/nscl5/dl/raw/main/dl/tg_ab4548_ffe2d206.apk)**
 
