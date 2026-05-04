@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-04 14:36 (IR Time)
+- 📥 **[Happ_beta.zip](https://github.com/nscl5/dl/raw/main/dl/Happ_beta.zip)**
+
 ### 📅 2026-05-03 15:06 (IR Time)
 - 📥 **[SlipStream-GUI-Windows-x64.zip](https://github.com/nscl5/dl/raw/main/dl/SlipStream-GUI-Windows-x64.zip)**
 
