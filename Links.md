@@ -1,4 +1,9 @@
 ## 🔗 Direct Download Links
+
+### 📅 2026-05-06 01:35 (IR Time)
+- 📥 **[Hiddify-Android-arm64.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm64.zip)**
+
+## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
 
 
