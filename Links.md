@@ -1,6 +1,26 @@
 ## 🔗 Direct Download Links
+> Click on any link below to start downloading directly.<br><br/>
 
-### 📅 2026-05-06 01:38 (IR Time)
+
+### 📅 2026-05-06 01:43 IR
+- 📥 [Hiddify-Linux-x64-AppImage.tar.gz](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Linux-x64-AppImage.tar.gz) `52.2MB`
+
+- 📥 [Hiddify-MacOS.dmg](https://github.com/nscl5/dl/raw/main/dl/Hiddify-MacOS.dmg) `79.6MB`
+
+- 🗜️ [Hiddify-Windows-Portable-x64.zip.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Portable-x64.zip.zip) `17.3MB`
+
+- 🗜️ [Hiddify-Windows-Portable-x64.zip.z01](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Portable-x64.zip.z01) `95.0MB`
+
+- 🗜️ [Hiddify-Windows-Portable-x64.zip.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Portable-x64.zip.zip) `17.3MB`
+
+- 📥 [Hiddify-Windows-Setup-x64.1.exe](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Setup-x64.1.exe) `34.8MB`
+
+- 📥 [Hiddify-Windows-Setup-x64.exe](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Setup-x64.exe) `34.8MB`
+
+- 📥 [Hiddify-Windows-x64.msix](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-x64.msix) `47.5MB`
+
+---
+
 - 📥 **[Hiddify-Android-arm7.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm7.zip)**
 
 ### 📅 2026-05-06 01:35 (IR Time)
