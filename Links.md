@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 23:59 IR
+- 📱 [Telegram.apk](https://github.com/nscl5/dl/raw/main/dl/Telegram.apk) `77.9MB`
+
+---
+
+
 ### 📅 2026-05-06 01:43 IR
 - 📥 [Hiddify-Linux-x64-AppImage.tar.gz](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Linux-x64-AppImage.tar.gz) `52.2MB`
 
