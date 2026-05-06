@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-07 01:54 (IR Time)
+- 📥 **[Telegram_G-Play_armv8_v12.7.0.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram_G-Play_armv8_v12.7.0.zip)**
+
 ### 📅 2026-05-07 00:16 (IR Time)
 - 📥 **[Telegram.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip)**
 
