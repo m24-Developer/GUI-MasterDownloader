@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 14:35 IR
+- 📱 [Incy.apk](https://github.com/nscl5/dl/raw/main/dl/Incy.apk) `50.2MB`
+
+- 📥 [incy-windows-setup.exe](https://github.com/nscl5/dl/raw/main/dl/incy-windows-setup.exe) `19.0MB`
+
+---
+
+
 ### 📅 2026-05-08 14:20 IR
 - 📥 [Happ.zip](https://github.com/nscl5/dl/raw/main/dl/Happ.zip) `51.59 MB`
 
