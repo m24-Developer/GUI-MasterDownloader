@@ -1,5 +1,13 @@
 ## 🔗 Direct Download Links
+> Click on any link below to start downloading directly.<br><br/>
 
+
+### 📅 2026-05-08 12:09 IR
+- 📥 [tsetup-x64.6.8.1.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup-x64.6.8.1.exe) `49.2MB`
+
+- 📥 [tsetup.6.8.1.tar.xz](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.8.1.tar.xz) `64.2MB`
+
+---
 
 
 
