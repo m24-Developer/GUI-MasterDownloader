@@ -1,22 +1,24 @@
 ## 🔗 Direct Download Links
 
+
+
+
+---
+
 ### 📅 2026-05-08 11:45 (IR Time)
 - 📥 [Windscribe_armv8_4.0.2208.apks](https://github.com/nscl5/dl/raw/main/dl/Windscribe_armv8_4.0.2208.apks) `39.36 MB`
 
-### 📅 2026-05-08 11:42 (IR Time)
 - 📥 [Exclave-0.17.39-armeabi-v7a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-armeabi-v7a.zip) `21.12 MB`
 
-### 📅 2026-05-08 11:41 (IR Time)
 - 📥 [Exclave-0.17.39-arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-arm64-v8a.zip) `20.66 MB`
 
-### 📅 2026-05-08 11:35 (IR Time)
+- 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
+
 - 📥 [NetMod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) `23.69 MB`
 
-### 📅 2026-05-08 11:31 (IR Time)
-- 📥 [Telegram.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip) `70.43 MB`
+- 📥 **[Telegram_direct_universal_v12.7.2.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip)**
 
-### 📅 2026-05-07 03:25 (IR Time)
-- 📥 **[Telegram.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip)**
+---
 
 ### 📅 2026-05-06 01:43 IR
 - 📥 [Hiddify-Linux-x64-AppImage.tar.gz](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Linux-x64-AppImage.tar.gz) `52.2MB`
@@ -36,7 +38,6 @@
 ---
 
 ### 📅 2026-05-06 00:10 IR
-- 📱 [Happ.apk](https://github.com/nscl5/dl/raw/main/dl/Happ.apk) `55.1MB`
 
 - 📱 [Invizible_Pro__beta_ver.2.6.8.apk](https://github.com/nscl5/dl/raw/main/dl/Invizible_Pro__beta_ver.2.6.8.apk) `38.1MB`
 
@@ -47,23 +48,6 @@
 
 ---
 
-### 📅 2026-05-03 12:34 IR
-- 📱 [Exclave-0.17.38-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) `22.2MB`
-
-- 📱 [Exclave-0.17.38-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-armeabi-v7a.apk) `22.7MB`
-
----
-
-
-### 📅 2026-05-01 05:58 IR
-- 📱 [Exclave-0.17.37-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) `22.2MB`
-
-- 📱 [Exclave-0.17.37-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-armeabi-v7a.apk) `22.7MB`
-
-- 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
-
----
-
 ### 📅 2026-04-30 23:19 IR
 - 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
 
@@ -71,21 +55,10 @@
 
 ---
 
-### 📅 2026-04-30 13:42 IR
-- 🗜️ [Telegram windows portable - v6.7.8.zip](https://github.com/nscl5/dl/raw/main/dl/tportable.6.7.8.zip) `57.0MB`
-
-- 📥 [Telegram windows setup file - v6.7.8.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.7.8.exe) `44.3MB`
-
----
-
 ### 📅 2026-04-27 12:16 IR
 - 🗜️ [AmneziaVPN_4.8.15.0_arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip) `86.6MB`
 
 - 📱 [AmneziaVPN_4.8.15.0_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_armeabi-v7a.apk) `91MB`
-
-- 📱 [v2rayNG_2.1.2_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.2_arm64-v8a.apk) `26.6MB`
-
-- 📱 [v2rayNG_2.1.2_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.2_armeabi-v7a.apk) `27MB`
 
 - 🗜️ [Defyx-android-arm64-v8a.zip](https://github.com/nscl5/dl/raw/refs/heads/main/dl/app-arm64-v8a-release.apk) `79.3MB`
 
