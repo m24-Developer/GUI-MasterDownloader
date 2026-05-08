@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 12:33 (IR Time)
+- 📥 [Telegram_G-Play_armv8_v12.7.1.apks](https://github.com/nscl5/dl/raw/main/dl/Telegram_G-Play_armv8_v12.7.1.apks) `38.05 MB`
+
 ### 📅 2026-05-08 12:09 IR
 - 📥 [Telegram_windows-x64_setup-file_v6.8.1.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup-x64.6.8.1.exe) `49.2MB`
 
