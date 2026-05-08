@@ -3,28 +3,24 @@
 
 
 ### 📅 2026-05-08 12:09 IR
-- 📥 [tsetup-x64.6.8.1.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup-x64.6.8.1.exe) `49.2MB`
+- 📥 [Telegram_windows-x64_setup-file_v6.8.1.exe](https://github.com/nscl5/dl/raw/main/dl/tsetup-x64.6.8.1.exe) `49.2MB`
 
-- 📥 [tsetup.6.8.1.tar.xz](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.8.1.tar.xz) `64.2MB`
+- 📥 [Telegram_linux_setup-file_v6.8.1.tar.xz](https://github.com/nscl5/dl/raw/main/dl/tsetup.6.8.1.tar.xz) `64.2MB`
 
----
-
-
+- 📥 **[Telegram_android_direct_v12.7.2.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip)** `70.43MB`
 
 ---
 
 ### 📅 2026-05-08 11:45 (IR Time)
-- 📥 [Windscribe_armv8_4.0.2208.apks](https://github.com/nscl5/dl/raw/main/dl/Windscribe_armv8_4.0.2208.apks) `39.36 MB`
+- 📥 [Windscribe_armv8_4.0.2208.apks](https://github.com/nscl5/dl/raw/main/dl/Windscribe_armv8_4.0.2208.apks) `39.36MB`
 
-- 📥 [Exclave-0.17.39-armeabi-v7a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-armeabi-v7a.zip) `21.12 MB`
+- 📥 [Exclave-0.17.39-armeabi-v7a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-armeabi-v7a.zip) `21.12MB`
 
-- 📥 [Exclave-0.17.39-arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-arm64-v8a.zip) `20.66 MB`
+- 📥 [Exclave-0.17.39-arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-arm64-v8a.zip) `20.66MB`
 
 - 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
 
-- 📥 [NetMod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) `23.69 MB`
-
-- 📥 **[Telegram_direct_universal_v12.7.2.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip)**
+- 📥 [NetMod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) `23.69MB`
 
 ---
 
@@ -39,9 +35,9 @@
 
 - 📥 [Hiddify-Windows-x64.msix](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-x64.msix) `47.5MB`
 
-- 📥 **[Hiddify-Android-arm7.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm7.zip)**
+- 📥 **[Hiddify-Android-arm7.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm7.zip)** `42.5MB`
 
-- 📥 **[Hiddify-Android-arm64.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm64.zip)**
+- 📥 **[Hiddify-Android-arm64.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm64.zip)** `43.8MB`
 
 ---
 
