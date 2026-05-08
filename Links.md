@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-08 11:35 (IR Time)
+- 📥 [NetMod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) `23.69 MB`
+
 ### 📅 2026-05-08 11:31 (IR Time)
 - 📥 [Telegram.zip](https://github.com/nscl5/dl/raw/main/dl/Telegram.zip) `70.43 MB`
 
