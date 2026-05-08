@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 14:20 (IR Time)
+- 📥 [Happ.zip](https://github.com/nscl5/dl/raw/main/dl/Happ.zip) `51.59 MB`
+
 ### 📅 2026-05-08 12:33 (IR Time)
 - 📥 [Telegram_G-Play_armv8_v12.7.1.apks](https://github.com/nscl5/dl/raw/main/dl/Telegram_G-Play_armv8_v12.7.1.apks) `38.05 MB`
 
