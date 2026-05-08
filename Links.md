@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-08 11:45 (IR Time)
+- 📥 [Windscribe_armv8_4.0.2208.apks](https://github.com/nscl5/dl/raw/main/dl/Windscribe_armv8_4.0.2208.apks) `39.36 MB`
+
 ### 📅 2026-05-08 11:42 (IR Time)
 - 📥 [Exclave-0.17.39-armeabi-v7a.zip](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-armeabi-v7a.zip) `21.12 MB`
 
