@@ -319,6 +319,6 @@ jobs:
           BRANCH="${GITHUB_REF_NAME}"
           git config user.name "NET-Sentinel Bot"
           git config user.email "224584266+NetSentinel-Bot@users.noreply.github.com"
-          git add dl/ Links.md
+          git add --sparse dl/ Links.md
           git commit -m "Add downloaded files via Panel [skip ci]" || echo "Nothing to commit"
           git push origin HEAD:$BRANCH
