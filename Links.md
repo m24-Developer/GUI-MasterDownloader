@@ -8,12 +8,6 @@
 ---
 
 
-### 📅 2026-05-09 06:59 IR
-- 🎬 [Vikings___Ragnar_Lothbrok___Farewell.mp4](https://github.com/nscl5/dl/raw/main/dl/Vikings___Ragnar_Lothbrok___Farewell.mp4) `92.4MB`
-
----
-
-
 ### 📅 2026-05-08 14:35 IR
 - 📱 [Incy.apk](https://github.com/nscl5/dl/raw/main/dl/Incy.apk) `50.2MB`
 
@@ -56,11 +50,7 @@
 
 - 📥 [Hiddify-MacOS.dmg](https://github.com/nscl5/dl/raw/main/dl/Hiddify-MacOS.dmg) `79.6MB`
 
-- 📥 [Hiddify-Windows-Setup-x64.1.exe](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Setup-x64.1.exe) `34.8MB`
-
 - 📥 [Hiddify-Windows-Setup-x64.exe](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-Setup-x64.exe) `34.8MB`
-
-- 📥 [Hiddify-Windows-x64.msix](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Windows-x64.msix) `47.5MB`
 
 - 📥 **[Hiddify-Android-arm7.zip](https://github.com/nscl5/dl/raw/main/dl/Hiddify-Android-arm7.zip)** `42.5MB`
 
@@ -71,11 +61,6 @@
 ### 📅 2026-05-06 00:10 IR
 
 - 📱 [Invizible_Pro__beta_ver.2.6.8.apk](https://github.com/nscl5/dl/raw/main/dl/Invizible_Pro__beta_ver.2.6.8.apk) `38.1MB`
-
----
-
-### 📅 2026-05-03 15:06 (IR Time)
-- 📥 **[SlipStream-GUI-Windows-x64.zip](https://github.com/nscl5/dl/raw/main/dl/SlipStream-GUI-Windows-x64.zip)**
 
 ---
 
