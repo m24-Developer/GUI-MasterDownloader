@@ -1,4 +1,4 @@
-name: GooglePlay dl
+name: Google Play Store dl
 
 on:
   workflow_dispatch:
@@ -49,9 +49,9 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq openjdk-17-jre-headless apksigner python3 python3-venv python3-pip curl git zip p7zip-full
+          sudo apt-get install -y -qq openjdk-17-jre-headless apksigner python3 python3-venv python3-pip curl git zip p7zip-full aapt
 
-      - name: Setup Google Play Downloader
+      - name: Setup Downloader Engine
         run: |
           git clone https://github.com/alltechdev/gplay-apk-downloader.git
           cd gplay-apk-downloader
@@ -62,7 +62,7 @@ jobs:
           cd gplay-apk-downloader
           echo "y" | ./gplay auth
 
-      - name: Download APK from Google Play
+      - name: Download APK
         run: |
           mkdir -p temp_dl/${{ env.pkg }}
           cd gplay-apk-downloader
@@ -77,10 +77,21 @@ jobs:
           
           if [ "$APK_COUNT" -eq 0 ]; then
             exit 1
-          elif [ "$APK_COUNT" -eq 1 ]; then
-            mv *.apk "../../processed_dl/${{ env.pkg }}_${{ env.arch }}.apk"
+          fi
+
+          BASE_APK=$(ls -S *.apk | head -n 1)
+          APP_VERSION=$(aapt dump badging "$BASE_APK" | grep "versionName=" | sed -e "s/.*versionName='//" -e "s/'.*//")
+          
+          if [ -z "$APP_VERSION" ]; then
+            APP_VERSION="latest"
           else
-            zip -0 -q "../../processed_dl/${{ env.pkg }}_${{ env.arch }}.apks" *.apk
+            APP_VERSION=$(echo "$APP_VERSION" | tr -dc 'A-Za-z0-9.-')
+          fi
+
+          if [ "$APK_COUNT" -eq 1 ]; then
+            mv *.apk "../../processed_dl/${{ env.pkg }}_${{ env.arch }}_v${APP_VERSION}.apk"
+          else
+            zip -0 -q "../../processed_dl/${{ env.pkg }}_${{ env.arch }}_v${APP_VERSION}.apks" *.apk
           fi
 
       - name: Zip & Split
@@ -149,6 +160,7 @@ jobs:
             cat current_run.md >> Links.md
           fi
           rm -f new_files.txt current_run.md
+
 
       - name: Push to Repository
         run: |
