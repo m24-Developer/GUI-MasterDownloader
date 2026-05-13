@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 18:49 (IR Time)
+- 📱 [app-arm64-v8a-release.apk](https://github.com/nscl5/dl/raw/main/dl/app-arm64-v8a-release.apk) `31.24 MB`
+
 ### 📅 2026-05-13 18:01 IR
 
 - 📥 [7zip_windows_x64.exe](https://github.com/nscl5/dl/raw/main/dl/7z2601-x64.exe) `1.58 MB`
