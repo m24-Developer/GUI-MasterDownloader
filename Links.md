@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 15:31 (IR Time)
+- 🗜️ [MahsaAlert_Offline_v10.zip](https://github.com/nscl5/dl/raw/main/dl/MahsaAlert_Offline_v10.zip) `51.26 MB`
+
 ### 📅 2026-05-13 15:26 (IR Time)
 - 📱 [Acode_Mod_universal_v1.11.7.apk](https://github.com/nscl5/dl/raw/main/dl/Acode_Mod_universal_v1.11.7.apk) `12.66 MB`
 
