@@ -2,67 +2,42 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-13 19:31 (IR Time)
-- 📱 [com.wireguard.android-1.0.20260315.apk](https://github.com/nscl5/dl/raw/main/dl/com.wireguard.android-1.0.20260315.apk) `16.16 MB`
+### 📅 2026-05-13 19:31 IR
+- 📱 [WireGuard_android_v1.0.20260315.apk](https://github.com/nscl5/dl/raw/main/dl/com.wireguard.android-1.0.20260315.apk) `16.16 MB`
 
-### 📅 2026-05-13 19:20 IR
-- 📱 [`com.wireguard.android_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/com.wireguard.android_arm64.apks) - **6.5MB**
+- 📱 [v2box_android_armv8.apks](https://github.com/nscl5/dl/raw/main/apks/dev.hexasoftware.v2box_arm64.apks) `28.0MB`
 
----
+- 🗜️ [Amnezia_android_armv8_v4.8.15.4.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.4_android9__arm64-v8a.zip) `86.57 MB`
 
+- 🗜️ [Amnezia_android_armv7_v4.8.15.4.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.4_android9__armeabi-v7a.zip) `80.99 MB`
 
-### 📅 2026-05-13 19:13 IR
-- 📱 [`dev.hexasoftware.v2box_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/dev.hexasoftware.v2box_arm64.apks) - **28.0MB**
+- 🗜️ [rethink_android_v53.zip](https://github.com/nscl5/dl/raw/main/dl/rethink-53.zip) `43.83 MB`
 
----
+- 📱 [MahsaNG_armv8_v15.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_arm64-v8a.apk) `51.73 MB`
 
+- 📱 [MahsaNG_armv7_v15.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_armeabi-v7a.apk) `52.32 MB`
 
-### 📅 2026-05-13 18:58 (IR Time)
-- 🗜️ [AmneziaVPN_4.8.15.4_android9__armeabi-v7a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.4_android9__armeabi-v7a.zip) `80.99 MB`
+- 📱 [SingBox_Android_armv8_v1.13.11.apk](https://github.com/nscl5/dl/raw/main/dl/SFA-1.13.11-arm64-v8a.apk) `26.88 MB`
 
-### 📅 2026-05-13 18:57 (IR Time)
-- 🗜️ [AmneziaVPN_4.8.15.4_android9__arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.4_android9__arm64-v8a.zip) `86.57 MB`
+- 📱 [SingBox_Android_armv7_v1.13.11.apk](https://github.com/nscl5/dl/raw/main/dl/SFA-1.13.11-armeabi-v7a.apk) `26.63 MB`
 
-### 📅 2026-05-13 18:57 (IR Time)
-- 🗜️ [rethink-53.zip](https://github.com/nscl5/dl/raw/main/dl/rethink-53.zip) `43.83 MB`
+- 📱 [WG-Tunnel_armv8_v4.3.1.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-arm64.apk) `17.89 MB`
 
-### 📅 2026-05-13 18:53 (IR Time)
-- 📱 [MahsaNG_15_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_armeabi-v7a.apk) `52.32 MB`
+- 📱 [WG-Tunnel_armv7_v4.3.1.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-armv7.apk) `16.83 MB`
 
-### 📅 2026-05-13 18:52 (IR Time)
-- 📱 [MahsaNG_15_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_arm64-v8a.apk) `51.73 MB`
+- 📱 [Orbot_armv8_v17.9.4-BETA-1_fullperm.apk](https://github.com/nscl5/dl/raw/main/dl/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk) `50.80 MB`
 
-### 📅 2026-05-13 18:52 (IR Time)
-- 📱 [SFA-1.13.11-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/SFA-1.13.11-armeabi-v7a.apk) `26.63 MB`
+- 📱 [Orbot_armvv_v17.9.4-BETA-1_fullperm.apk](https://github.com/nscl5/dl/raw/main/dl/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-armeabi-v7a-release.apk) `47.37 MB`
 
-### 📅 2026-05-13 18:52 (IR Time)
-- 📱 [SFA-1.13.11-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/SFA-1.13.11-arm64-v8a.apk) `26.88 MB`
+- 📱 [Network-Checker_armv8_v0.5.0.apk](https://github.com/nscl5/dl/raw/main/dl/app-arm64-v8a-release.apk) `31.24 MB`
 
-### 📅 2026-05-13 18:52 (IR Time)
-- 📱 [wgtunnel-standalone-v4.3.1-armv7.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-armv7.apk) `16.83 MB`
-
-### 📅 2026-05-13 18:52 (IR Time)
-- 📱 [wgtunnel-standalone-v4.3.1-arm64.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-arm64.apk) `17.89 MB`
-
-### 📅 2026-05-13 18:51 (IR Time)
-- 📱 [Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-armeabi-v7a-release.apk](https://github.com/nscl5/dl/raw/main/dl/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-armeabi-v7a-release.apk) `47.37 MB`
-
-### 📅 2026-05-13 18:51 (IR Time)
-- 📱 [Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk](https://github.com/nscl5/dl/raw/main/dl/Orbot-17.9.4-BETA-1-tor-0.4.9.6.2-1-g84015e0a4-fullperm-arm64-v8a-release.apk) `50.80 MB`
-
-### 📅 2026-05-13 18:49 (IR Time)
-- 📱 [app-armeabi-v7a-release.apk](https://github.com/nscl5/dl/raw/main/dl/app-armeabi-v7a-release.apk) `19.13 MB`
-
-### 📅 2026-05-13 18:49 (IR Time)
-- 📱 [app-arm64-v8a-release.apk](https://github.com/nscl5/dl/raw/main/dl/app-arm64-v8a-release.apk) `31.24 MB`
-
-### 📅 2026-05-13 18:01 IR
+- 📱 [Network-Checker_armv7_v0.5.0.apk](https://github.com/nscl5/dl/raw/main/dl/app-armeabi-v7a-release.apk) `19.13 MB`
 
 - 📥 [7zip_windows_x64.exe](https://github.com/nscl5/dl/raw/main/dl/7z2601-x64.exe) `1.58 MB`
 
-- 📱 [intra_DNS_armv8_v1.4.1.apks](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) - **11.3MB**
+- 📱 [intra_DNS_armv8_v1.4.1.apks](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) `11.3MB`
 
-- 📱 [NPV_Tunnel_armv8_v123.1.apks](https://github.com/nscl5/dl/raw/main/apks/com.napsternetlabs.napsternetv_arm64_vlatest.apks) - `68.6MB`
+- 📱 [NPV_Tunnel_armv8_v123.1.apks](https://github.com/nscl5/dl/raw/main/apks/com.napsternetlabs.napsternetv_arm64_vlatest.apks) `68.6MB`
 
 - 📱 [DNSTT-Client_armv8_v2.2.0.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-arm64-v8a.apk) `12.43 MB`
 
@@ -76,9 +51,9 @@
 
 - 📱 [Apktool_M_v2.4.0-260501_2026050101_.apk](https://github.com/nscl5/dl/raw/main/dl/Apktool_M_v2.4.0-260501_2026050101_.apk) `15.47 MB`
 
-- 📱 [Netmod_arm64_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) - `31.3MB`
+- 📱 [Netmod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) `31.3MB`
 
-- 📱 [PsiphonePro_V464-beta.apk](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) - `25.0MB`
+- 📱 [PsiphonePro_V464-beta.apk](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) `25.0MB`
 
 - 📱 [MT_Manager_v2.26.4.apk](https://github.com/nscl5/dl/raw/main/dl/MT2.26.4_fix.apk) `28.82 MB`
 
