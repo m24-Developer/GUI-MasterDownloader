@@ -3,6 +3,9 @@
 
 
 ### 📅 2026-05-13 17:04 (IR Time)
+- 📱 [DNSTT-Client-v2.2.0-Android-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-armeabi-v7a.apk) `9.27 MB`
+
+### 📅 2026-05-13 17:04 (IR Time)
 - 📱 [DNSTT-Client-v2.2.0-Android-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-arm64-v8a.apk) `12.43 MB`
 
 ### 📅 2026-05-13 15:31 (IR Time)
