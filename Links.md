@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 04:05 IR
+- 📱 [`com.psiphon3.subscription_arm64.apk`](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) - **25.0MB**
+
+---
+
+
 ### 📅 2026-05-13 01:15 (IR Time)
 - 📱 [MT2.26.4_fix.apk](https://github.com/nscl5/dl/raw/main/dl/MT2.26.4_fix.apk) `28.82 MB`
 
