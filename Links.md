@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 19:31 (IR Time)
+- 📱 [com.wireguard.android-1.0.20260315.apk](https://github.com/nscl5/dl/raw/main/dl/com.wireguard.android-1.0.20260315.apk) `16.16 MB`
+
 ### 📅 2026-05-13 19:20 IR
 - 📱 [`com.wireguard.android_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/com.wireguard.android_arm64.apks) - **6.5MB**
 
