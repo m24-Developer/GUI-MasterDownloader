@@ -3,6 +3,9 @@
 
 
 ### 📅 2026-05-13 22:04 (IR Time)
+- 📱 [PsiphonAndroid.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonAndroid.apk) `21.87 MB`
+
+### 📅 2026-05-13 22:04 (IR Time)
 - 📥 [psiphon3.exe](https://github.com/nscl5/dl/raw/main/dl/psiphon3.exe) `9.44 MB`
 
 ### 📅 2026-05-13 20:35 IR
