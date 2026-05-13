@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 18:53 (IR Time)
+- 📱 [MahsaNG_15_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_armeabi-v7a.apk) `52.32 MB`
+
 ### 📅 2026-05-13 18:52 (IR Time)
 - 📱 [MahsaNG_15_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/MahsaNG_15_arm64-v8a.apk) `51.73 MB`
 
