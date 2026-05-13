@@ -6,7 +6,7 @@
 
 - 📥 [7zip_windows_x64.exe](https://github.com/nscl5/dl/raw/main/dl/7z2601-x64.exe) `1.58 MB`
 
-- 📱 [intraDND_armv8_v1.4.1.apks](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) - **11.3MB**
+- 📱 [intra_DNS_armv8_v1.4.1.apks](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) - **11.3MB**
 
 - 📱 [NPV_Tunnel_armv8_v123.1.apks](https://github.com/nscl5/dl/raw/main/apks/com.napsternetlabs.napsternetv_arm64_vlatest.apks) - `68.6MB`
 
