@@ -5,16 +5,10 @@
 ### 📅 2026-05-13 20:11 (IR Time)
 - 📥 [EveryProxy_armv8_v16.2.1.apks](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_armv8_v16.2.1.apks) `8.13 MB`
 
-### 📅 2026-05-13 20:10 (IR Time)
-- 🗜️ [EveryProxy_How_to.zip](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_How_to.zip) `0.01 MB`
+- 📱 [EveryProxy_v10.5.0.apk](https://github.com/nscl5/dl/raw/main/dl/EveryProxy%20-%20v10.5.0.apk) `1.95 MB`
 
-### 📅 2026-05-13 19:56 (IR Time)
-- 📱 [EveryProxy - v10.5.0.apk](https://github.com/nscl5/dl/raw/main/dl/EveryProxy%20-%20v10.5.0.apk) `1.95 MB`
-
-### 📅 2026-05-13 19:55 (IR Time)
 - 📱 [OpenVPN_For_Android_Universal_v0.7.43.apk](https://github.com/nscl5/dl/raw/main/dl/OpenVPN_For_Android_Universal_v0.7.43.apk) `21.11 MB`
 
-### 📅 2026-05-13 19:31 IR
 - 📱 [WireGuard_android_v1.0.20260315.apk](https://github.com/nscl5/dl/raw/main/dl/com.wireguard.android-1.0.20260315.apk) `16.16 MB`
 
 - 📱 [v2box_android_armv8.apks](https://github.com/nscl5/dl/raw/main/apks/dev.hexasoftware.v2box_arm64.apks) `28.0MB`
