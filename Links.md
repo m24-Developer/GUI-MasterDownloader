@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 17:04 (IR Time)
+- 📱 [DNSTT-Client-v2.2.0-Android-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-arm64-v8a.apk) `12.43 MB`
+
 ### 📅 2026-05-13 15:31 (IR Time)
 - 🗜️ [MahsaAlert_Offline_v10.zip](https://github.com/nscl5/dl/raw/main/dl/MahsaAlert_Offline_v10.zip) `51.26 MB`
 
