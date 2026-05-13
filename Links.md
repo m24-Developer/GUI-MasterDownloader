@@ -64,11 +64,9 @@
 
 - 📱 [Netmod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) `31.3MB`
 
-- 📱 [PsiphonePro_V464-beta.apk](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) `25.0MB`
+- 📱 [PsiphonPro_V464-beta.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25.0MB`
 
 - 📱 [MT_Manager_v2.26.4.apk](https://github.com/nscl5/dl/raw/main/dl/MT2.26.4_fix.apk) `28.82 MB`
-
-- 📥 [EveryProxy_armv64_v16.2.1.apks](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_armv8_v16.2.1.apks) `8.1MB`
 
 ---
 
