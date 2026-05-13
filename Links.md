@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 14:49 IR
+- 🗜️ [آمار_و_کاربرد_آن_در_مدیریت_۱–جلسه‌_۴_(واریانس)_Statistics_for_Management.7z.001](https://github.com/nscl5/dl/raw/main/dl/%D8%A2%D9%85%D8%A7%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%D8%A2%D9%86_%D8%AF%D8%B1_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%DB%B1%E2%80%93%D8%AC%D9%84%D8%B3%D9%87%E2%80%8C_%DB%B4_%28%D9%88%D8%A7%D8%B1%DB%8C%D8%A7%D9%86%D8%B3%29_Statistics_for_Management.7z.001) `95.0MB`
+
+- 🗜️ [آمار_و_کاربرد_آن_در_مدیریت_۱–جلسه‌_۴_(واریانس)_Statistics_for_Management.7z.002](https://github.com/nscl5/dl/raw/main/dl/%D8%A2%D9%85%D8%A7%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%D8%A2%D9%86_%D8%AF%D8%B1_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%DB%B1%E2%80%93%D8%AC%D9%84%D8%B3%D9%87%E2%80%8C_%DB%B4_%28%D9%88%D8%A7%D8%B1%DB%8C%D8%A7%D9%86%D8%B3%29_Statistics_for_Management.7z.002) `14.4MB`
+
+---
+
+
 ### 📅 2026-05-13 14:35 IR
 - 📱 [`com.netmod.syna_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) - **31.3MB**
 
