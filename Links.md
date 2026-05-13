@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 19:20 IR
+- 📱 [`com.wireguard.android_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/com.wireguard.android_arm64.apks) - **6.5MB**
+
+---
+
+
 ### 📅 2026-05-13 19:13 IR
 - 📱 [`dev.hexasoftware.v2box_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/dev.hexasoftware.v2box_arm64.apks) - **28.0MB**
 
