@@ -3,6 +3,9 @@
 
 
 ### 📅 2026-05-13 18:52 (IR Time)
+- 📱 [wgtunnel-standalone-v4.3.1-armv7.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-armv7.apk) `16.83 MB`
+
+### 📅 2026-05-13 18:52 (IR Time)
 - 📱 [wgtunnel-standalone-v4.3.1-arm64.apk](https://github.com/nscl5/dl/raw/main/dl/wgtunnel-standalone-v4.3.1-arm64.apk) `17.89 MB`
 
 ### 📅 2026-05-13 18:51 (IR Time)
