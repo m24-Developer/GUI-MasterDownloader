@@ -2,119 +2,56 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-13 18:01 (IR Time)
-- 📥 [7z2601-x64.exe](https://github.com/nscl5/dl/raw/main/dl/7z2601-x64.exe) `1.58 MB`
+### 📅 2026-05-13 18:01 IR
 
-### 📅 2026-05-13 17:41 IR
-- 📱 [`app.intra_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) - **11.3MB**
+- 📥 [7zip_windows_x64.exe](https://github.com/nscl5/dl/raw/main/dl/7z2601-x64.exe) `1.58 MB`
 
----
+- 📱 [intraDND_armv8_v1.4.1.apks](https://github.com/nscl5/dl/raw/main/apks/app.intra_arm64.apks) - **11.3MB**
 
+- 📱 [NPV_Tunnel_armv8_v123.1.apks](https://github.com/nscl5/dl/raw/main/apks/com.napsternetlabs.napsternetv_arm64_vlatest.apks) - `68.6MB`
 
-### 📅 2026-05-13 17:37 IR
-- 📱 [`com.celzero.bravedns_arm64.apk`](https://github.com/nscl5/dl/raw/main/apks/com.celzero.bravedns_arm64.apk) - **60.5MB**
+- 📱 [DNSTT-Client_armv8_v2.2.0.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-arm64-v8a.apk) `12.43 MB`
 
----
+- 📱 [DNSTT-Client_armv7_v2.2.0.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-armeabi-v7a.apk) `9.27 MB`
 
-
-### 📅 2026-05-13 17:13 IR
-- 📱 [`com.napsternetlabs.napsternetv_arm64_vlatest.apks`](https://github.com/nscl5/dl/raw/main/apks/com.napsternetlabs.napsternetv_arm64_vlatest.apks) - **68.6MB**
-
----
-
-
-### 📅 2026-05-13 17:04 (IR Time)
-- 📱 [DNSTT-Client-v2.2.0-Android-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-armeabi-v7a.apk) `9.27 MB`
-
-### 📅 2026-05-13 17:04 (IR Time)
-- 📱 [DNSTT-Client-v2.2.0-Android-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/DNSTT-Client-v2.2.0-Android-arm64-v8a.apk) `12.43 MB`
-
-### 📅 2026-05-13 15:31 (IR Time)
 - 🗜️ [MahsaAlert_Offline_v10.zip](https://github.com/nscl5/dl/raw/main/dl/MahsaAlert_Offline_v10.zip) `51.26 MB`
 
-### 📅 2026-05-13 15:26 (IR Time)
 - 📱 [Acode_Mod_universal_v1.11.7.apk](https://github.com/nscl5/dl/raw/main/dl/Acode_Mod_universal_v1.11.7.apk) `12.66 MB`
 
-### 📅 2026-05-13 15:17 (IR Time)
 - 📱 [SAI-4.5.apk](https://github.com/nscl5/dl/raw/main/dl/SAI-4.5.apk) `4.89 MB`
 
-### 📅 2026-05-13 15:09 (IR Time)
 - 📱 [Apktool_M_v2.4.0-260501_2026050101_.apk](https://github.com/nscl5/dl/raw/main/dl/Apktool_M_v2.4.0-260501_2026050101_.apk) `15.47 MB`
 
-### 📅 2026-05-13 14:49 IR
-- 🗜️ [آمار_و_کاربرد_آن_در_مدیریت_۱–جلسه‌_۴_(واریانس)_Statistics_for_Management.7z.001](https://github.com/nscl5/dl/raw/main/dl/%D8%A2%D9%85%D8%A7%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%D8%A2%D9%86_%D8%AF%D8%B1_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%DB%B1%E2%80%93%D8%AC%D9%84%D8%B3%D9%87%E2%80%8C_%DB%B4_%28%D9%88%D8%A7%D8%B1%DB%8C%D8%A7%D9%86%D8%B3%29_Statistics_for_Management.7z.001) `95.0MB`
+- 📱 [Netmod_arm64_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) - `31.3MB`
 
-- 🗜️ [آمار_و_کاربرد_آن_در_مدیریت_۱–جلسه‌_۴_(واریانس)_Statistics_for_Management.7z.002](https://github.com/nscl5/dl/raw/main/dl/%D8%A2%D9%85%D8%A7%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%D8%A2%D9%86_%D8%AF%D8%B1_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%DB%B1%E2%80%93%D8%AC%D9%84%D8%B3%D9%87%E2%80%8C_%DB%B4_%28%D9%88%D8%A7%D8%B1%DB%8C%D8%A7%D9%86%D8%B3%29_Statistics_for_Management.7z.002) `14.4MB`
+- 📱 [PsiphonePro_V464-beta.apk](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) - `25.0MB`
 
----
+- 📱 [MT_Manager_v2.26.4.apk](https://github.com/nscl5/dl/raw/main/dl/MT2.26.4_fix.apk) `28.82 MB`
 
-
-### 📅 2026-05-13 14:35 IR
-- 📱 [`com.netmod.syna_arm64.apks`](https://github.com/nscl5/dl/raw/main/apks/com.netmod.syna_arm64.apks) - **31.3MB**
+- 📥 [EveryProxy_armv64_v16.2.1.apks](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_armv8_v16.2.1.apks) `8.1MB`
 
 ---
-
-
-### 📅 2026-05-13 04:05 IR
-- 📱 [`com.psiphon3.subscription_arm64.apk`](https://github.com/nscl5/dl/raw/main/apks/com.psiphon3.subscription_arm64.apk) - **25.0MB**
-
----
-
-
-### 📅 2026-05-13 01:15 (IR Time)
-- 📱 [MT2.26.4_fix.apk](https://github.com/nscl5/dl/raw/main/dl/MT2.26.4_fix.apk) `28.82 MB`
-
-### 📅 2026-05-12 20:18 IR
-- 📥 [PsiphonPro_v464.zip](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25.8MB`
-
----
-
-
-### 📅 2026-05-12 20:00 IR
-- 📥 [EveryProxy_armv8_v16.2.1.apks](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_armv8_v16.2.1.apks) `8.1MB`
-
----
-
 
 ### 📅 2026-05-12 10:39 IR
 - 📱 [WhiteDNS-1.2.0-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/WhiteDNS-1.2.0-arm64-v8a.apk) `5.1MB`
 
 - 📱 [WhiteDNS-1.2.0-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/WhiteDNS-1.2.0-armeabi-v7a.apk) `4.9MB`
 
----
-
-
-### 📅 2026-05-12 10:10 IR
 - 📱 [MasterDnsVPN-GG-1.1.0-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/MasterDnsVPN-GG-1.1.0-arm64-v8a.apk) `24.5MB`
 
 - 📱 [MasterDnsVPN-GG-1.1.0-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/MasterDnsVPN-GG-1.1.0-armeabi-v7a.apk) `24.1MB`
 
 ---
 
-
 ### 📅 2026-05-11 20:43 IR
 - 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
 
 - 📱 [v2rayNG_2.1.7_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_armeabi-v7a.apk) `27.1MB`
 
----
-
-
-### 📅 2026-05-09 07:34 IR
-- 🎬 [Vikings___Ragnar_Lothbrok___Farewell.mp4](https://github.com/nscl5/dl/raw/main/dl/Vikings___Ragnar_Lothbrok___Farewell.mp4) `92.4MB`
-
----
-
-
-### 📅 2026-05-08 14:35 IR
 - 📱 [Incy.apk](https://github.com/nscl5/dl/raw/main/dl/Incy.apk) `50.2MB`
 
 - 📥 [incy-windows-setup.exe](https://github.com/nscl5/dl/raw/main/dl/incy-windows-setup.exe) `19.0MB`
 
----
-
-
-### 📅 2026-05-08 14:20 IR
 - 📥 [Happ.zip](https://github.com/nscl5/dl/raw/main/dl/Happ.zip) `51.59 MB`
 
 ---
@@ -139,8 +76,6 @@
 
 - 🗜️ [ExclavevFull Backup - 1 May_2026.zip](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip) `2.1MB`
 
-- 📥 [NetMod_armv8_v4.1.0.apks](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) `23.69MB`
-
 ---
 
 ### 📅 2026-05-06 01:43 IR
@@ -160,16 +95,6 @@
 
 - 📱 [Invizible_Pro__beta_ver.2.6.8.apk](https://github.com/nscl5/dl/raw/main/dl/Invizible_Pro__beta_ver.2.6.8.apk) `38.1MB`
 
----
-
-### 📅 2026-04-30 23:19 IR
-- 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
-
-- 📱 [v2rayNG_2.1.4_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_armeabi-v7a.apk) `27.2MB`
-
----
-
-### 📅 2026-04-27 12:16 IR
 - 🗜️ [AmneziaVPN_4.8.15.0_arm64-v8a.zip](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip) `86.6MB`
 
 - 📱 [AmneziaVPN_4.8.15.0_armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_armeabi-v7a.apk) `91MB`
@@ -178,9 +103,6 @@
 
 - 🗜️ [Defyx-windows-release.zip](https://github.com/nscl5/dl/raw/main/dl/windows-release.zip) `31.6MB`
 
----
-
-### 📅 2026-04-27 11:44 IR
 - 📱 [cmfa-2.11.27-meta-arm64-v8a.apk](https://github.com/nscl5/dl/raw/main/dl/cmfa-2.11.27-meta-arm64-v8a-release.apk) `29.5MB`
 
 - 📱 [cmfa-2.11.27-meta-armeabi-v7a.apk](https://github.com/nscl5/dl/raw/main/dl/cmfa-2.11.27-meta-armeabi-v7a-release.apk) `29.6MB`
@@ -205,6 +127,9 @@
 ---
 
 ### 📅 2026-04-26 22:15 IR
+
+- 🎬 [Vikings___Ragnar_Lothbrok___Farewell.mp4](https://github.com/nscl5/dl/raw/main/dl/Vikings___Ragnar_Lothbrok___Farewell.mp4) `92.4MB`
+
 - ‎🎬 [بازخوانی آهنگ ＂نی شکسته＂ توسط پرستو احمدی.mp4](https://github.com/nscl5/sandbox/raw/main/dl/%D8%A8%D8%A7%D8%B2%D8%AE%D9%88%D8%A7%D9%86%DB%8C%20%D8%A2%D9%87%D9%86%DA%AF%20%EF%BC%82%D9%86%DB%8C%20%D8%B4%DA%A9%D8%B3%D8%AA%D9%87%EF%BC%82%D8%AC%D9%86%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%D8%B2%D8%A7%D8%AF%D9%87%20%D8%AA%D9%88%D8%B3%D8%B7%20%D8%AE%D8%A7%D9%86%D9%85%20%D8%AE%D9%88%D8%B4%20%D8%B5%D8%AF%D8%A7%20%D9%BE%D8%B1%D8%B3%D8%AA%D9%88%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%20%23%D8%A2%D9%87%D9%86%DA%AF%20%23%D9%85%D9%88%D8%B2%DB%8C%DA%A9%20%23audio%20%23music.mp4) `1.57MB`
 
 - ‎🎬 [پرستو احمدی "مرا ببوس" کنسرت کاروانسرا, بدون حجاب اجباری در ایران.mp4](https://github.com/nscl5/sandbox/raw/main/dl/%D9%BE%D8%B1%D8%B3%D8%AA%D9%88%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%20%EF%BD%9C%20%D9%85%D8%B1%D8%A7%20%D8%A8%D8%A8%D9%88%D8%B3%20%EF%BD%9C%20%DA%A9%D9%86%D8%B3%D8%B1%D8%AA%20%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%AD%D8%AC%D8%A7%D8%A8%20%D8%A7%D8%AC%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%AF%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%EF%BD%9C%20%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C%20%D8%B2%D9%86%D8%AF%D9%87.mp4) `29.1MB`
