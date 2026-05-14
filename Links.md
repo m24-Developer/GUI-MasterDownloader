@@ -2,26 +2,21 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-14 13:52 (IR Time)
-- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+### 📅 2026-05-14 13:52 IR
 
-### 📅 2026-05-14 11:38 (IR Time)
-- 📥 [geoip.dat](https://github.com/nscl5/dl/raw/main/dl/geoip.dat) `18.11 MB`
-
-### 📅 2026-05-14 11:38 (IR Time)
-- 📥 [geosite.dat](https://github.com/nscl5/dl/raw/main/dl/geosite.dat) `7.45 MB`
-
-### 📅 2026-05-14 03:37 (IR Time)
-- 📱 [PsiphonAndroid v425.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonAndroid%20v425.apk) `22.72 MB`
-
-### 📅 2026-05-13 22:04 (IR Time)
-- 📱 [PsiphonAndroid.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonAndroid.apk) `21.87 MB`
-
-### 📅 2026-05-13 22:04 (IR Time)
-- 📥 [psiphon3.exe](https://github.com/nscl5/dl/raw/main/dl/psiphon3.exe) `9.44 MB`
-
-### 📅 2026-05-13 20:35 IR
 - 📱 [PsiphonPro_v464.zip](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25MB`
+
+- 📱 [Psiphon_v453.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonAndroid.apk) `21.87 MB`
+
+- 📱 [Psiphon v425.apk](https://github.com/nscl5/dl/raw/main/dl/PsiphonAndroid%20v425.apk) `22.72 MB`
+
+- 📥 [Psiphon_windows_x64.exe](https://github.com/nscl5/dl/raw/main/dl/psiphon3.exe) `9.44 MB`
+
+- 📱 [ShirOKhorshid-v2026.05.14.apk](https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
+- 📥 [v2rayNG_geoip.dat](https://github.com/nscl5/dl/raw/main/dl/geoip.dat) `18.11 MB`
+
+- 📥 [v2rayNG_geosite.dat](https://github.com/nscl5/dl/raw/main/dl/geosite.dat) `7.45 MB`
 
 - 📱 [WireGuard_android_v1.0.20260315.apk](https://github.com/nscl5/dl/raw/main/dl/com.wireguard.android-1.0.20260315.apk) `16.16MB`
 
