@@ -2,6 +2,9 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 13:52 (IR Time)
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
 ### 📅 2026-05-14 11:38 (IR Time)
 - 📥 [geoip.dat](https://github.com/nscl5/dl/raw/main/dl/geoip.dat) `18.11 MB`
 
